@@ -1,0 +1,11 @@
+This repository contains the git configuration that the author uses.
+
+The files in this repository having a name starting with git_ are aimed to be
+included in a ~/.gitconfig file using an [include] section. See this page:
+
+http://travisjeffery.com/b/2012/03/using-gits-include-for-private-information-like-github-tokens/
+
+==============================================================================
+Author: Thierry Rascle (thierr26@free.fr)
+
+Licensed under the Unlicense license (see http://unlicense.org).

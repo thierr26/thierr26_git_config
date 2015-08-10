@@ -1,0 +1,8 @@
+[alias]
+	s = status
+	g = log --pretty=oneline --abbrev-commit
+	a = add
+	ci = commit
+	cm = commit -m
+	ca = commit -a
+	cam = commit -am
