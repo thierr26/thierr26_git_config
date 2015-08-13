@@ -1,5 +1,6 @@
 [alias]
 	s = status
+	d = diff
 	g = log --pretty=oneline --abbrev-commit
 	a = add
 	ci = commit
