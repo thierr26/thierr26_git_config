@@ -1,0 +1,8 @@
+# Default colors for git status are ok on one of my machine but not easy to
+# read on another one. Not sure why (monitor settings, lighting conditions,
+# etc.).
+
+[color "status"]
+	added = yellow bold
+	changed = cyan
+	untracked = white bold
