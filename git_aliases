@@ -8,5 +8,4 @@
 	ca = commit -a
 	cam = commit -am
 	p = push
-	pt = push origin
 	graph = log --graph --oneline --all
