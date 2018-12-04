@@ -3,6 +3,7 @@
 	d = diff
 	g = log --pretty=oneline --abbrev-commit
 	a = add
+	co = checkout
 	ci = commit
 	cm = commit -m
 	ca = commit -a
